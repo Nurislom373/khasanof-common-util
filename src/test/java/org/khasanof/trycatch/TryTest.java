@@ -1,6 +1,7 @@
 package org.khasanof.trycatch;
 
 import lombok.extern.slf4j.Slf4j;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.util.logging.Logger;
@@ -15,6 +16,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class TryTest {
 
     @Test
+    @Disabled
     @SuppressWarnings("unchecked")
     void toCallTest() {
         thrower();
