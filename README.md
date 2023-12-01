@@ -2,6 +2,7 @@
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.nurislom373/khasanof-common-util/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.nurislom373/khasanof-common-util)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Nurislom373/khasanof-common-util/blob/main/LICENSE)
+[![Join the chat at https://gitter.im/nurislom373/khasanof-common-util](https://badges.gitter.im/Join%20Chat.svg)](https://app.gitter.im/#/room/#khasanof-common-util:gitter.im)
 
 ```xml
 

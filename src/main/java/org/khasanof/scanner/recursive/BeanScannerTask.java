@@ -5,9 +5,6 @@ import org.springframework.aop.framework.Advised;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;
 import org.springframework.context.ApplicationContext;
-import uz.devops.settings.service.configuration.ConfigurationServiceUtils;
-import uz.devops.settings.service.context.fieldConfig.BeanAnnotatedField;
-import uz.devops.settings.service.context.fieldConfig.SimpleGlobalSettingBeanFieldContext;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
@@ -19,7 +16,6 @@ import java.util.concurrent.RecursiveTask;
 
 import static org.khasanof.loader.KhasanofLoaderUtils.classLoader;
 import static org.khasanof.scanner.AbstractScanner.*;
-import static uz.devops.settings.service.context.scanner.AbstractScanner.*;
 
 /**
  * @author Nurislom
