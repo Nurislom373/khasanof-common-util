@@ -1,10 +1,13 @@
 # khasanof-common-util
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.nurislom373/khasanof-common-util/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.nurislom373/khasanof-common-util)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Nurislom373/khasanof-common-util/blob/main/LICENSE)
+
 ```xml
 <dependency>
-  <groupId>org.khasanof</groupId>
-  <artifactId>khasanof-common-util</artifactId>
-  <version>1.0.1</version>
+    <groupId>io.github.nurislom373</groupId>
+    <artifactId>khasanof-common-util</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
 
