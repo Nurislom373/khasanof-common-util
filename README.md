@@ -4,6 +4,7 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Nurislom373/khasanof-common-util/blob/main/LICENSE)
 
 ```xml
+
 <dependency>
     <groupId>io.github.nurislom373</groupId>
     <artifactId>khasanof-common-util</artifactId>
@@ -34,3 +35,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Contributors
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nurislom373"><img src="https://github.com/Nurislom373/khasanof-common-util/etc/images/khasanof.png" width="100px;" alt="Nurislom Xasanov"/><br /><sub><b>Nurislom Xasanov</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+        </tr>
+    </tbody>
+</table>
