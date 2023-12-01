@@ -41,7 +41,7 @@ SOFTWARE.
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nurislom373"><img src="https://github.com/Nurislom373/khasanof-common-util/etc/images/khasanof.png" width="100px;" alt="Nurislom Xasanov"/><br /><sub><b>Nurislom Xasanov</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+            <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nurislom373"><img src="https://github.com/Nurislom373/khasanof-common-util/blob/main/etc/images/khasanof.png" width="100px;" alt="Nurislom Xasanov"/><br /><sub><b>Nurislom Xasanov</b></sub></a><br /><a href="#" title="Code">💻</a></td>
         </tr>
     </tbody>
 </table>
