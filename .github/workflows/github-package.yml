@@ -19,9 +19,9 @@ jobs:
       uses: actions/setup-java@v4
       with:
         java-version: '17'
-        distribution: 'zulu'
+        distribution: 'temurin'
 
     - name: Publish package
       run: ./mvnw deploy
       env:
-        GITHUB_TOKEN: ${{ github.token }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
