@@ -1,0 +1,27 @@
+name: Publish package to GitHub Packages
+
+on:
+  push:
+    branches:
+      - 'main'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up JDK 17
+      uses: actions/setup-java@v4
+      with:
+        java-version: '17'
+        distribution: 'zulu'
+
+    - name: Publish package
+      run: ./mvnw deploy
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
